@@ -1,14 +1,14 @@
 # EcoSteps
 
 ## 🌿 About EcoSteps – A Story of Turning Good Intentions Into Daily Action #
-Most of us want to live more sustainably — we read tips, follow eco-influencers, feel inspired for a moment and then life gets busy. The intention is there, but the habit never sticks.
+Most of us want to live more sustainably — we read tips, follow eco-influencers, feel inspired for a moment and then life gets busy. The intention is there but the habit never sticks.
 
 EcoSteps was born from this gap.
 This project began with a simple question:
 
-“Why does sustainable living feel so overwhelming, and how can design make it easier?”
+“Why does sustainable living feel so overwhelming and how can design make it easier?”
 
-As I explored users’ struggles, a clear pattern emerged. People weren’t lacking information — they were lacking guidance. They wanted small wins, not big lifestyle overhauls. They wanted encouragement, not eco-guilt. And most importantly, they wanted a way to see that their actions actually mattered.
+As I explored users’ struggles, a clear pattern emerged. People weren’t lacking information — they were lacking guidance. They wanted small wins not big lifestyle overhauls. They wanted encouragement not eco-guilt. And most importantly they wanted a way to see that their actions actually mattered.
 
 That insight became the foundation of EcoSteps, a habit-forming sustainability app designed to turn eco-friendly living into a series of achievable daily micro-actions.
 
@@ -18,7 +18,7 @@ Throughout this UI/UX capstone project, I mapped out the entire experience using
 
 Strategy to define the “why” — helping users move from awareness to action
 
-Scope to identify essential features like micro-habits, challenges, and impact tracking
+Scope to identify essential features like micro-habits, challenges and impact tracking
 
 Structure to shape how users progress through habits and rewards
 
@@ -48,6 +48,6 @@ Sustainable living should feel empowering, not exhausting.
 
 🌍 The Outcome
 
-From research to wireframes to high-fidelity prototypes, this project demonstrates how thoughtful design can reshape behavior — not by demanding perfection, but by celebrating progress.
+From research to wireframes to high-fidelity prototypes this project demonstrates how thoughtful design can reshape behavior — not by demanding perfection but by celebrating progress.
 
 EcoSteps tells the story of how sustainability can become second nature one small habit at a time.
